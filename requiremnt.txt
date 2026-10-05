@@ -1,0 +1,4 @@
+Python
+Streamlit
+Sentence Transformers
+Embedding Model: all-MiniLM-L6-v2
